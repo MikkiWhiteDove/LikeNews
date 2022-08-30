@@ -2,17 +2,12 @@
  
 ## Проект в котором у меня была возможность поработать с:
 
-###1 TabBarController
-
-###2 NavigationController(searchController, refreshConrtoll), SheetPresentationController, ViewControlleer
-
-###3 Xib - (No StoryBoard)
-
-###4 TableView, TableViewCell
-
-###5 CoreData
-
-###6 AutoLayout 
+### 1 TabBarController
+### 2 NavigationController(searchController, refreshConrtoll), SheetPresentationController, ViewControlleer
+### 3 Xib - (No StoryBoard)
+### 4 TableView, TableViewCell
+### 5 CoreData
+### 6 AutoLayout 
 
 
 

@@ -20,10 +20,9 @@
 > ### Экран “Все новости“.
 [
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="200" hedth="400">,
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowLikeFalse.png" width="200" hedth="400">
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowLikeFalse.png" width="200" hedth="400">,
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowLikeTrue.png" width="200" hedth="400">
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowSelect.png" width="200" hedth="400">
-]
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/SearchController.png" width="200" hedth="400">]
 ####  Поисковая строка перед элементами TableView на главном экране.
 ####  При вводе текста, элементы TableView автоматически фильтруются в зависимости от введенных символов.
 ####  Реализовать с помощью TableView, 
@@ -31,9 +30,13 @@
 #### возможность добавить новость в избранное с главной страницы путем свайпа влево.
 ---
 > ### Экран “Отдельная новость” 
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowSelect.png" width="200" hedth="400">
 #### изображение, заголовок, текст, дата
 ---
 > ### Экран “Избранные новости“
+[<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsWitoutLike.png" width="200" hedth="400">,
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNews.png" width="200" hedth="400">
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsDeleted.png" width="200" hedth="400">]
 #### возможность обновления, так как с главного экрана будут добавляться элементы в избранное.
 ---
 

@@ -16,8 +16,7 @@
 ####    Необходимо на Swift реализовать функционал, описанный ниже: 
 ####        Приложение должно состоять из двух элементов таббара:
 
-![News](https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png "News")
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png"> 
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="50" hedth="100"> 
 ---
 > ### Экран “Все новости“.
 ####  Поисковая строка перед элементами TableView на главном экране.

@@ -16,9 +16,6 @@
 ####    Необходимо на Swift реализовать функционал, описанный ниже: 
 ####        Приложение должно состоять из двух элементов таббара:
 
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="400" hedth="800"> 
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="400" hedth="800"> 
-
 ---
 > ### Экран “Все новости“.
 ####  Поисковая строка перед элементами TableView на главном экране.
@@ -32,6 +29,10 @@
 ---
 > ### Экран “Избранные новости“
 #### возможность обновления, так как с главного экрана будут добавляться элементы в избранное.
-
+---
+[
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="350" hedth="700">,
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="400" hedth="800"> 
+]
 
 

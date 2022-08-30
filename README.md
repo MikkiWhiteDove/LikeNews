@@ -38,7 +38,7 @@
 [
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsWitoutLike.png" width="150" hedth="300">,
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsDeleted.png" width="150" hedth="300">
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsAfterDelete.png" width="150" hedth="300">
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeAfterDelete.png" width="150" hedth="300">
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RefreshLikeNews.png" width="150" hedth="300">
 ]
 

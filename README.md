@@ -31,12 +31,17 @@
 ---
 > ### Экран “Отдельная новость” 
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowSelect.png" width="200" hedth="400">
+
 #### изображение, заголовок, текст, дата
 ---
-> ### Экран “Избранные новости“
-[<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsWitoutLike.png" width="200" hedth="400">,
+> ### Экран “Избранные новости“ 
+[
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsWitoutLike.png" width="200" hedth="400">,
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNews.png" width="200" hedth="400">
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsDeleted.png" width="200" hedth="400">]
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/LikeNewsDeleted.png" width="200" hedth="400">
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RefreshLikeNews.png" width="200" hedth="400">
+]
+
 #### возможность обновления, так как с главного экрана будут добавляться элементы в избранное.
 ---
 

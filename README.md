@@ -18,6 +18,10 @@
 
 ---
 > ### Экран “Все новости“.
+[
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="200" hedth="400">,
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="200" hedth="400"> 
+]
 ####  Поисковая строка перед элементами TableView на главном экране.
 ####  При вводе текста, элементы TableView автоматически фильтруются в зависимости от введенных символов.
 ####  Реализовать с помощью TableView, 
@@ -30,9 +34,6 @@
 > ### Экран “Избранные новости“
 #### возможность обновления, так как с главного экрана будут добавляться элементы в избранное.
 ---
-[
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="350" hedth="700">,
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="400" hedth="800"> 
-]
+
 
 

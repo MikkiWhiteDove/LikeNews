@@ -22,7 +22,9 @@
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/allNews.png" width="150" hedth="300">,
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowLikeFalse.png" width="150" hedth="300">,
 <img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/RowLikeTrue.png" width="150" hedth="300">
-<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/SearchController.png" width="150" hedth="300">]
+<img src="https://github.com/MikkiWhiteDove/LikeNews/blob/main/Screens/SearchController.png" width="150" hedth="300">
+]
+
 ####  Поисковая строка перед элементами TableView на главном экране.
 ####  При вводе текста, элементы TableView автоматически фильтруются в зависимости от введенных символов.
 ####  Реализовать с помощью TableView, 
